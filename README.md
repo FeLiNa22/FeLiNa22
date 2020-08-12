@@ -1,11 +1,11 @@
 ### Hi there, I'm Raul - aka [FeLiNa22][website] 👋
 
 ## I'm a 2nd Year Computer Science Student, Software Developer, and Software Engineer!
-- 🔭 I’m currently working on a [PISP][website]!
+- 🔭 I’m currently working on a [PISP][https://handsin.co.uk]!
 - 🌱 I’m currently learning everything possible 🤣
 - 👯 I’m looking to collaborate with other keen developers in the fintech industry
-- 🥅 2020 Goals: Learn machine learning
-- ⚡ Fun fact: I love to 
+- 🥅 2020 Goals: Understand and create a recurrent neural network from scratch
+- ⚡ Fun fact: I like to play football ⚽
 
 ### Connect with me:
 
