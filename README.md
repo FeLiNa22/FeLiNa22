@@ -47,8 +47,8 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FeLiNa22&show_icons=true&hide_border=true" />
 
 
-[website]: 
+[website]: none
 [twitter]: https://twitter.com/FeLiNa22
-[instagram]: 
+[instagram]: none
 [linkedin]: https://www.linkedin.com/in/raul-patel-b1979214b/
 
