@@ -1,6 +1,6 @@
 ### Hi there, I'm Raul - aka [FeLiNa22][website] 👋
 
-## I'm a 2nd Year Computer Science Student, Software Developer, and Software Engineer!
+## I'm a 2nd Year Computer Science Student and Software Engineer!
 - 🔭 I’m currently working on a bill splitting app - [Check it out here](https://handsin.co.uk)!
 - 🌱 I’m trying to learn everything about computer science 🤣
 - 👯 I’m looking to collaborate with other keen developers within the fintech industry
