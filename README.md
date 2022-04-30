@@ -1,6 +1,6 @@
 ### Hi there, I'm Raul - aka [FeLiNa22][website] 👋
 
-## I'm a Dean's list Computer Science Student @ImperialCollegeLondon and CTO of @HandsIn!
+## I'm the Co-founder & CTO of @HandsIn!
 - 🔭 I’m currently working on a bill splitting app - [Check it out here](https://handsin.co.uk)!
 - 🌱 I’m trying to learn everything about computer science 🤣
 - 👯 I’m looking to collaborate with other keen developers within the fintech industry
