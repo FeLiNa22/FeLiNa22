@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a bill splitting app - [Check it out here](https://handsin.co.uk)!
 - 🌱 I’m trying to learn everything about computer science 🤣
 - 👯 I’m looking to collaborate with other keen developers within the fintech industry
-- 🥅 2020 Goals: Understand and implement a recurrent neural network from scratch
+- 🥅 2022 Goals: Grow Hands In to a multi-million business
 - ⚡ Fun fact: I like to play football ⚽
 
 ### Connect with me:
