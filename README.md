@@ -1,23 +1,23 @@
-### Hi there, I'm Raul [🌐](https://raulpatel.com) 👋
+### 👋 Hi there, I'm Raul [🌐](https://raulpatel.com) 
 
-## Who am I? 🥺
+## 🥺 Who am I? 
 - 🔭 The Co-founder & CTO of [Hands In](https://handsin.com)
 - 🌘 The CEO and Director of [Lunar Labs](https://lunarlabs.ai)
 
-## My Goals 🥅 
+## 🥅 My Goals  
 - 🌱 To learn everything and test the boundaries of innovation with computers 🤣
 - 👯 To collaborate and connect with other keen developers around the world
 - 🛠 Start building open-source projects
 - ⚽ Play football and table tennis on weekly-basis 
 
-### Connect with me:
+### 🔗 Connect with me:
 [<img align="left" alt="raulpatel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Raul Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Raul Patel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
