@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Raul [🌐](https://raulpatel.com) 
+### 👋 Hi there, I'm Raul!
 
 ## 🥺 Who am I? 
 - 🔭 The Co-founder & CTO of [Hands In](https://handsin.com)
