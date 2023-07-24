@@ -8,7 +8,7 @@
 - 🌱 To learn everything and test the boundaries of innovation with computers 🤣
 - 👯 To collaborate and connect with other keen developers around the world
 - 🛠 Start building open-source projects
-- ⚽ Play football and table-tennis on weekly-basis 
+- ⚽ Play football and table tennis on weekly-basis 
 
 ### Connect with me:
 [<img align="left" alt="raulpatel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
