@@ -1,8 +1,9 @@
 ### 👋 Hi there, I'm Raul!
 
 ## 🥺 Who am I? 
-- 🔭 The Co-founder & CTO of [Hands In](https://handsin.com)
-- 🌘 The CEO and Director of [Lunar Labs](https://lunarlabs.ai)
+- 🔭 The Co-founder & CTO of [Hands In](https://handsin.com) the split payments platform for travel
+- 🌘 The CEO of [Lunar Labs](https://lunarlabs.ai) an explorative AI research group
+- 📚 The creator of [Rstack](https://github.com/FeLiNa22/rstack) the fastest launching MVP stack in the world
 
 ## My Goals  
 - 🌱 To learn everything and test the boundaries of innovation with computers 🤣
